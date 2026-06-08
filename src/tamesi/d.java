@@ -1,5 +1,5 @@
 package tamesi;
-
+//こんにちは
 import java.util.LinkedList;
 
 public class d {
